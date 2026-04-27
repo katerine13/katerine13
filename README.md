@@ -1,4 +1,4 @@
-# 👋 Hola, soy Katerine Manrique
+# 👋 Hola, soy Katerine Manrique Garcia
 
 💻 **Analista y Desarrolladora de Software en formación**  
 Apasionada por la tecnología, el desarrollo de software y la mejora continua. Me interesa crear soluciones eficientes y aprender nuevas herramientas que aporten valor a los proyectos.
