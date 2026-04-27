@@ -49,4 +49,6 @@ Técnico Auxiliar Administrativo
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&hide=html,css&theme=tokyonight).
+
 ✨ *Gracias por visitar mi perfil*
